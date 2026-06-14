@@ -5,7 +5,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 required = [
     'README.md', 'LICENSE', 'skills/is-this-useful/SKILL.md',
-    'install.sh', 'ROADMAP.md'
+    'install.sh', 'ROADMAP.md', 'assets/is-this-useful.png'
 ]
 errors = []
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/is-this-useful.svg" width="120" alt="Is This Useful logo" />
+  <img src="assets/is-this-useful.png" width="120" alt="Is This Useful logo" />
 </p>
 
 <h1 align="center">Is This Useful?</h1>
