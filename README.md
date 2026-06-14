@@ -12,7 +12,7 @@
 
 ---
 
-**Is This Useful?** is an agent skill that stops your AI from wasting attention on shiny distractions.
+**Is This Useful?** is an agent skill that stops you and your AI from wasting attention on shiny distractions.
 
 Paste a repo, paper, SaaS, product, trend, or tweet. Instead of summarizing the marketing page, your agent checks your recent work and returns:
 
