@@ -7,7 +7,7 @@
 <p align="center"><strong>This saves attention and bad decisions.</strong></p>
 
 <p align="center">
-  <a href="#install">Install</a> · <a href="#what-it-does">What it does</a> · <a href="#examples">Examples</a> · <a href="#agent-support">Agent support</a>
+  <a href="#install">Install</a> · <a href="#what-it-does">What it does</a> · <a href="#examples">Examples</a> · <a href="#agent-support">Agent support</a> · <a href="ROADMAP.md">Roadmap</a>
 </p>
 
 ---
@@ -168,10 +168,10 @@ This skill answers: “Should *we* spend attention on this?”
 skills/is-this-useful/SKILL.md            # main skill
 skills/is-this-useful/references/         # rubrics and evidence rules
 examples/                                 # sample prompts and outputs
-docs/                                     # positioning and publishing notes
+docs/                                     # public notes and roadmap
 scripts/validate.py                       # repo validation
 install.sh                                # multi-agent install helper
-KANBAN.md                                 # publish-today board
+ROADMAP.md                                # public roadmap and research direction
 ```
 
 ## License
