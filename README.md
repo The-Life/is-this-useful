@@ -12,7 +12,7 @@
 
 ---
 
-**Is This Useful?** is an agent skill that stops your AI from blindly chasing hype.
+**Is This Useful?** is an agent skill that stops your AI from wasting attention on shiny distractions.
 
 Paste a repo, paper, SaaS, product, trend, or tweet. Instead of summarizing the marketing page, your agent checks your recent work and returns:
 
@@ -20,7 +20,7 @@ Paste a repo, paper, SaaS, product, trend, or tweet. Instead of summarizing the 
 Use / Test / Watch / Skip
 ```
 
-Not another summary. Not another hype thread. A usefulness verdict.
+Not another summary. Not another detour. A usefulness verdict.
 
 ## The problem
 
@@ -53,7 +53,7 @@ Verdict: Test
 
 Why:
 - Fits one active workflow, but overlaps with existing tools.
-- Evidence is promising but mostly launch hype.
+- Evidence is promising but mostly launch claims.
 - Adoption cost is small enough for a pilot.
 
 Best fit:
@@ -113,7 +113,7 @@ cd is-this-useful
 
 ## Examples
 
-### Repo hype check
+### Repo usefulness check
 
 ```text
 Is this useful? https://github.com/Panniantong/Agent-Reach
@@ -144,7 +144,7 @@ Next step: ignore for now.
 ## Viral angles
 
 - **Your AI does not need more research. It needs judgment.**
-- **A hype filter for AI agents.**
+- **An attention filter for AI agents.**
 - **Stop turning every shiny link into a project.**
 - **Before your agent says “great idea,” make it prove usefulness.**
 - **Caveman saves tokens. This saves attention and bad decisions.**
@@ -172,7 +172,7 @@ This skill answers: “Should *we* spend attention on this?”
 | **Use** | Clear fit, low friction, credible evidence |
 | **Test** | Plausible fit, but needs a small proof-of-concept |
 | **Watch** | Interesting, but immature/not urgent/not yet relevant |
-| **Skip** | Weak fit, redundant, costly, or mostly hype |
+| **Skip** | Weak fit, redundant, costly, or mostly noise |
 
 ## Repository structure
 

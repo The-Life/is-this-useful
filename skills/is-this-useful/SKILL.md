@@ -1,12 +1,12 @@
 ---
 name: is-this-useful
-description: Context-aware hype filter for AI agents. Evaluates links, repos, papers, products, and trends against recent work before recommending Use, Test, Watch, or Skip.
+description: Context-aware attention filter for AI agents. Evaluates links, repos, papers, products, and trends against recent work before recommending Use, Test, Watch, or Skip.
 version: 1.0.0
 author: Is This Useful contributors
 license: MIT
 metadata:
   hermes:
-    tags: [research, evaluation, prioritization, hype-filter, strategy, decision-memo]
+    tags: [research, evaluation, prioritization, attention-management, strategy, decision-memo]
 ---
 
 # Is This Useful?
@@ -17,7 +17,7 @@ Use this skill when the user asks to research, assess, evaluate, or give a view 
 
 - "Is this useful?"
 - "Should we care?"
-- "Is this hype?"
+- "Is this worth our attention?"
 - "Do research on this."
 - "Can we use this?"
 - "Is there something better?"
@@ -26,7 +26,7 @@ Use this skill when the user asks to research, assess, evaluate, or give a view 
 
 ## Goal
 
-Do **not** blindly summarize or follow hype. Decide whether the material is useful for the user's actual work, based on recent context, evidence, alternatives, and adoption cost.
+Do **not** blindly summarize or follow claims. Decide whether the material is useful for the user's actual work, based on recent context, evidence, alternatives, and adoption cost.
 
 Core promise:
 
@@ -94,7 +94,7 @@ Ask:
 
 Name 1–3 alternatives when relevant.
 
-Include existing tools/workflows, simpler direct tools, competing projects/products, and "do nothing / wait" when hype exceeds value.
+Include existing tools/workflows, simpler direct tools, competing projects/products, and "do nothing / wait" when attention cost exceeds value.
 
 ### 6. Return decision first
 
@@ -123,7 +123,7 @@ Next step:
 - **Use**: clear match to active work, low adoption friction, credible evidence.
 - **Test**: plausible fit but needs a small proof-of-concept.
 - **Watch**: promising but immature, expensive, unclear, or not urgent.
-- **Skip**: weak fit, mostly hype, redundant with current tools, or distracts from priorities.
+- **Skip**: weak fit, weak evidence, redundant with current tools, or distracts from priorities.
 
 ## Evidence grading
 

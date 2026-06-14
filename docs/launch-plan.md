@@ -13,9 +13,9 @@
 ```text
 New open skill: Is This Useful?
 
-A context-aware hype filter for AI agents.
+A context-aware attention filter for AI agents.
 
-Paste a repo, paper, product, or trend. Instead of summarizing hype, your agent checks your recent work and returns:
+Paste a repo, paper, product, or trend. Instead of summarizing claims, your agent checks your recent work and returns:
 Use / Test / Watch / Skip.
 
 Caveman saves tokens.

@@ -2,7 +2,7 @@
 
 ## One-liner
 
-A context-aware hype filter for AI agents.
+A context-aware attention filter for AI agents.
 
 ## Tagline
 

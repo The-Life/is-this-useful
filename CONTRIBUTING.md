@@ -21,4 +21,4 @@ python3 scripts/validate.py
 - Decision first.
 - Protect attention.
 - Prefer small pilots over big adoption.
-- Do not turn hype into backlog by default.
+- Do not turn every shiny thing into backlog by default.

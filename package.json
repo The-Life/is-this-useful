@@ -2,10 +2,10 @@
   "name": "is-this-useful-skill",
   "version": "0.1.0",
   "private": true,
-  "description": "A context-aware hype filter skill for AI agents: Use, Test, Watch, or Skip.",
+  "description": "A context-aware attention filter skill for AI agents: Use, Test, Watch, or Skip.",
   "scripts": {
     "test": "python3 scripts/validate.py"
   },
-  "keywords": ["ai-agent", "skills", "codex", "claude-code", "hype-filter", "research", "decision-making"],
+  "keywords": ["ai-agent", "skills", "codex", "claude-code", "attention-management", "research", "decision-making"],
   "license": "MIT"
 }

@@ -16,7 +16,7 @@ Choose **Watch** when it is promising but immature, not needed for current work,
 
 ## Skip
 
-Choose **Skip** when there is no active use case, it is mostly hype, duplicates working tools, or risk exceeds value.
+Choose **Skip** when there is no active use case, evidence is weak, it duplicates working tools, or risk exceeds value.
 
 ## Anti-patterns
 
