@@ -7,7 +7,7 @@
 <p align="center"><strong>This saves attention and bad decisions.</strong></p>
 
 <p align="center">
-  <a href="#install">Install</a> · <a href="#what-it-does">What it does</a> · <a href="#examples">Examples</a> · <a href="#viral-angles">Viral angles</a> · <a href="#agent-support">Agent support</a>
+  <a href="#install">Install</a> · <a href="#what-it-does">What it does</a> · <a href="#examples">Examples</a> · <a href="#agent-support">Agent support</a>
 </p>
 
 ---
@@ -140,16 +140,6 @@ Verdict: Skip
 Why: duplicates current enrichment/outreach workflow; no export/API clarity; adoption cost high.
 Next step: ignore for now.
 ```
-
-## Viral angles
-
-- **Your AI does not need more research. It needs judgment.**
-- **An attention filter for AI agents.**
-- **Stop turning every shiny link into a project.**
-- **Before your agent says “great idea,” make it prove usefulness.**
-- **Caveman saves tokens. This saves attention and bad decisions.**
-- **Use / Test / Watch / Skip — for every repo, paper, SaaS, or trend.**
-- **The skill for people whose backlog is already full.**
 
 ## Why this is different
 
