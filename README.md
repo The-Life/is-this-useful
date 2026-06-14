@@ -24,9 +24,7 @@ Not another summary. Not another detour. A usefulness verdict.
 
 ## The problem
 
-AI agents are too agreeable. You paste a link and they often summarize claims, ignore fit, miss better alternatives, and turn every shiny thing into a TODO.
-
-That is how teams lose attention.
+we are living a world of hype and every new thing just gets spammed by AI gurus on all sorts of social media and out attention is forced to take a peak into it though it's useful for us or not, in a world of constant change and hype it's needed for us to save our attention more like our tokens. 
 
 ## The promise
 
