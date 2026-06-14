@@ -138,7 +138,7 @@ Next step:
 
 ## Guardrails
 
-- Do not over-index on viral Reddit/Twitter/LinkedIn claims.
+- Do not over-index on social-media Reddit/Twitter/LinkedIn claims.
 - Do not recommend adoption without a real work fit.
 - Do not produce long generic summaries unless asked.
 - State uncertainty plainly.
